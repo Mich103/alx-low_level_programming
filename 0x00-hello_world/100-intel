@@ -1,0 +1,18 @@
+#!/bin/bash
+gcc -S -masm=intel $CFILE
+
+#include <stdlib.h>
+
+#include <time.h>
+
+#include <stdio.h>
+
+main
+
+Determines if a number is
+
+positive,
+
+negative or ze
+
+Return: Always
