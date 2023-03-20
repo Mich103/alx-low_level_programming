@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * struct dog - this description about a specific dog
+ * struct dog - this description about specific dogs
  * @name: sdfasdf
  * @age:  asdfas
  * @owner:  asdf
@@ -21,3 +21,5 @@ void init_dog(struct dog *d, char *name, float age, char *owner);
 void print_dog(struct dog *d);
 void free_dog(dog_t *d);
 #endif
+
+
